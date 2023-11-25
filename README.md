@@ -9,4 +9,3 @@
 More notes
 ==========
 calc.py         -> the best response to the problem; the best solution
-<end>
